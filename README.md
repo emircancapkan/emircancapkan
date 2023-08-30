@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emircan Çapkan</h1>
 <h3 align="center">Computer Engineer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align="right" alt="Coding" width="300" height="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emircancapkan&label=Profile%20views&color=0e75b6&style=flat" alt="emircancapkan" /> </p>
 
 - 🔭 I’m currently working on **HTML, CSS**
