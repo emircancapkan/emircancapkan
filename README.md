@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emircancapkan" alt="emircancapkan" /></a> </p>
 
-- 🔭 I’m currently working on [Green Grocery App](https://github.com/emircancapkan/Green-Grocery-App)
-
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT and JAVA**
+- 🌱 I’m currently learning **.NET and Software Technologies**
 
 - 📝 I regularly write articles on [https://medium.com/@emircancapkan](https://medium.com/@emircancapkan)
 
-- 💬 Ask me about **C++, Java, Matlab, HTML and CSS**
+- 💬 Ask me about **C#, C++, Java, Matlab, HTML and CSS**
 
 - 📫 How to reach me **emircancapkan@gmail.com**
 
